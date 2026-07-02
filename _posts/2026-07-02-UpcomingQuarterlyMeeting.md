@@ -1,9 +1,9 @@
 ---
-title: Upcoming Quarterly Meeting – October 11
+title: Upcoming Quarterly Meeting – July 11, 2026
 layout: news_item
 author: N5MCL
 ---
 
-> "It is once again time for our quarterly meeting. It will be held on Oct 11th at Granzins BBQ and will convene about 8 AM. As always, in respect for the serious, ongoing discussions this will interrupt, we will do what we can to complete the meeting as quickly as practical."
+> "It's time once again to provide notice that the GVARC quarterly meeting will occur on the 11th of July.  As always, we'll convene the meeting as close as practical to 0800, conduct the business meeting in as little time as necessary for the required items and then get back to the normal discussions that occur every Saturday at Granzin's."
 >
 > — Dave, AF5PL
