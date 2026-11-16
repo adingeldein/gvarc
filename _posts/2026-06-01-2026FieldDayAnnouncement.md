@@ -4,18 +4,6 @@ layout: news_item
 author: N5MCL
 ---
 
-The Guadalupe Valley Amateur Radio Club invites local amateur radio operators, prospective hams, 
-friends and families to join us for **ARRL Field Day 2026**, Saturday and Sunday, **June 27–28**.
-
-Field Day is amateur radio’s annual open house and one of the biggest operating events of the year. 
-Radio clubs and individual operators across North America set up stations, make contacts, test their 
-skills and equipment, and demonstrate how amateur radio supports communication, preparedness and 
-community service.
-
-This year, GVARC will once again gather at **Mike WQ5C’s QTH on River Road in New Braunfels** for a 
-relaxed weekend of operating, learning and socializing. The club plans to operate a home station on 
-emergency power along with a temporary station.
-
 The Guadalupe Valley Amateur Radio Club invites local amateur radio operators, prospective hams,
  friends and families to join us for **ARRL Field Day 2026**, Saturday and Sunday, **June 27–28**.
 
